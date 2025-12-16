@@ -1,0 +1,4 @@
+#+TITLE: Lisp
+
+* Credit
+  - [[https://buildyourownlisp.com/][build your own lisp]]
